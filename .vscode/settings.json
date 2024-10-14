@@ -1,0 +1,4 @@
+{
+	"files.autoSaveWhenNoErrors": true,
+	"debug.onTaskErrors": "prompt"
+}
